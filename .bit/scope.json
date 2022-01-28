@@ -1,0 +1,11 @@
+{
+    "name": "bit-remote-comp",
+    "remotes": {
+        "remote-scope": "http://localhost:8000"
+    },
+    "version": "1.0.209",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}

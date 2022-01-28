@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": "remote-scope",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "cc864f5792310179f7b42183c3a0b69a85112350"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/card"
+      },
+      "isSymlink": true,
+      "hash": "ed61e861cd457fc2f8bbfe214c116b7a575b28bb"
+    },
+    {
+      "id": {
+        "scope": "remote-scope",
+        "name": "ui/card"
+      },
+      "isSymlink": false,
+      "hash": "bbf4636252e24bf244879433799fdce6503c389e"
+    }
+  ],
+  "lanes": []
+}

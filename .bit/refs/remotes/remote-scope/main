@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "ui/button"
+    },
+    "head": "1a928892e988e09a918f124cc71ad533a86bbf93"
+  },
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "ui/card"
+    },
+    "head": "e9a1025634c04dad69f159a11ea0dadb90dbfdb3"
+  }
+]
